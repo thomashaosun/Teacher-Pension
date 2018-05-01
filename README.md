@@ -1,3 +1,4 @@
-# Teacher-Pension;
+# US Teacher Shortage -Pension Settings;
 # There are two steps in this proposal; 
-# Pull Data fro two sources;
+# 1. Pull Data from two sources and then merge;
+# 2. Run different analysis.
